@@ -1,0 +1,1 @@
+C:\Users\Davide\Anaconda3\python.exe C:\Users\Davide\Anaconda3\cwp.py C:\Users\Davide\Anaconda3 C:\Users\Davide\Anaconda3\python.exe C:\Users\Davide\Anaconda3\Scripts\jupyter-notebook-script.py "K:\Nuova cartella\Neural networks and Deep learning\imgshow"
